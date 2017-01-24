@@ -1,3 +1,29 @@
+#chatboxArea2 {
+    margin-left: 16px!important;
+    margin-right: auto;
+    left: 0!important;
+    width: 362px!important;
+    bottom: -1px!important;
+}
+
+#input_box2 {
+width: 362px!important;
+}
+#chatbox, #chatroom {
+    color: rgba(255, 255, 255, .8);
+    background: rgba(101, 44, 177, 0.08);
+    width: 362px!important;
+    top: 450px!important;
+    height: 300px!important;
+}
+element.style {
+}
+#pinfo, #latency_box {
+    color: #4b3d9e;
+}
+
+
+
 #div_lb {
     top: -30px!important;
 }
