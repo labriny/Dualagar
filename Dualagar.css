@@ -1,3 +1,6 @@
+#div_lb {
+    top: -30px!important;
+}
 #div_lb > .header {
     color: rgba(33, 150, 243, 0)!important;
 }
