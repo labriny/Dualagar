@@ -13,7 +13,6 @@ server-list-root .card_selected, [riot-tag="server-list-root"] .card_selected, [
 .btn-play:hover,.joinParty:hover, .btn-play-guest:hover{
 	background: #2e063d  !important;
 	width: 100%;
-	float: left;
 }
 .btn-play,.joinParty, .btn-play-guest{
 	 background-color: ##7136ab! important;
@@ -104,7 +103,7 @@ agario-side-panel {
     text-align: right;
 }
 .right_side_panel {
-    width: 328px;
+    width: 269px;
     padding: 0px;
 }
 h2 {
