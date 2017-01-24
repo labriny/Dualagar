@@ -1,3 +1,4 @@
+server-list-root .card_selected, [riot-tag="server-list-root"] .card_selected, [data-is="server-list-root"] .card_selected
 .btn-play:hover,.joinParty:hover, .btn-play-guest:hover{
 	background: #2e063d  !important;
 	width: 100%;
