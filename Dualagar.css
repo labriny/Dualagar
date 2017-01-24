@@ -5,7 +5,7 @@ server-list-root .card_selected, [riot-tag="server-list-root"] .card_selected, [
 	float: left;
 }
 .btn-play,.joinParty, .btn-play-guest{
-	 background-color: ##7136ab! important;
+	 background-color: #7136ab! important;
 	width: 100%;
 	float: left;
 }
