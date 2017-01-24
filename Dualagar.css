@@ -1,3 +1,9 @@
+server-list-root td, [riot-tag="server-list-root"] td, [data-is="server-list-root"] td {
+
+    width: 87px!important;
+    Height: 41px;
+    border-bottom: 1px Solid #9a4fe5;
+}
 server-list-root .card1, [riot-tag="server-list-root"] .card1, [data-is="server-list-root"] .card1 {
     background-color: #190028!important;
     cursor: pointer;
