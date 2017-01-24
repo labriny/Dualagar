@@ -1,0 +1,204 @@
+.btn-play:hover,.joinParty:hover, .btn-play-guest:hover{
+	background: #2e063d  !important;
+	width: 100%;
+	float: left;
+}
+.btn-play,.joinParty, .btn-play-guest{
+	 background-color: ##7136ab! important;
+	width: 100%;
+	float: left;
+}
+.btn-spectate:hover, .btn-hotkey:hover {
+	background: #411b66 !important;
+}
+
+.btn-spectate {
+	width: 100%;
+	float: left;
+	background: #39155c !important;
+}
+.btn-play-guest {
+    width: 100%;
+    float: left;
+	
+}
+#teamNameContainer.input-group
+	{
+		
+    background: #1d0526; !important
+}
+#div_score {
+	color: #ffffff !important;
+	left: 5px;
+	top: 600px;
+	font-size: 20px;
+	padding: 2px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+}
+.agario-panel {
+    border-top: 5px Solid #ac59ff;
+    background: #190028!important;
+}
+#mainPanel {
+    padding: 5px 15px !important;
+}
+/*.side-container.left-side{
+	visibility: hidden;
+}*/
+#chatroom.ps-container {
+	
+	top: 300px;
+	resize: none;
+}
+#pinfo,#latency_box {
+	color: #4b3d9e
+}
+hr {
+	border: 0;
+    height: 0;
+    border-bottom: 1px dotted #444;
+    border-top: 1px dotted #111;
+    clear: both;
+	margin-bottom: 20px;
+}
+hr {
+    display: block;
+    -webkit-margin-start: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.side-container {
+    vertical-align: top;
+    display: inline-block;
+
+}
+agario-side-panel {
+    display: inline-block;
+    width: 220px;
+}
+
+.hotkeys {
+    padding: 8px 12px!important;
+    line-height: 22px;
+    font-size: 13px;
+}
+.hotkey {
+    font-size: 14px;
+    font-weight: 600;
+    color: #d9534f;
+    float: right;
+    text-align: right;
+}
+.right_side_panel {
+    width: 210px;
+    padding: 0px;
+}
+h2 {
+    text-align: center;
+	margin: 10px 10px 10px;
+    padding: 0;
+	font-size: 30px;
+	font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+#left_second_pane{
+	visibility: visible !important;
+}
+#right_side_container {
+    width: 245px !important;
+}
+body {
+	    font-family: 'Ubuntu' !important;
+}
+#div_lb{
+	text-align:left!important;
+	padding-left:10px!important;
+	}
+.nav > li > a {
+	color: #4b3d9e !important;
+}
+.nav-tabs > li.active > a {
+	color: #4b3d9e !important;
+	background: rgba(51, 51, 51, 0.48);
+	
+}
+.nav-tabs {
+    border-color: #4f0242;
+}
+.tosBox.right {
+    right: 0;
+    border-radius: 5px 0 0;
+	position: absolute;
+	bottom: 0;
+}
+.tosBox.right {
+    right: 0;
+    border-radius: 5px 0 0;
+}
+
+.tosBox {
+    z-index: 1000;
+    position: absolute;
+    bottom: 0;
+    background-color: #FFF;
+    padding: 5px 10px;
+	color: #000;
+}
+
+.modal-content {
+    -webkit-box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+.modal-content {
+    position: relative;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #999;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 6px;
+    outline: 0;
+    -webkit-box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    box-shadow: 0 3px 9px rgba(0,0,0,.5);
+}
+
+
+
+#mainPanel.ztx,.agario-side-panel.ztx{background: #222 !important;opacity: 0.95!important;border-radius:10px!important;}
+#team_name.ztx,#nick.ztx,#skin_url.ztx,#skin_url2.ztx{background: #fff !important;color:#000 !important;border-radius: 4px!important;}
+.btn-play-guest.ztx{background: #5CB85C !important;border-radius: 4px!important;width:100%!important}
+.btn-spectate.ztx{background: #EC971F !important;border-radius: 4px!important;}
+.btn-play-guest.ztx:hover{background: #449D44 !important;border-radius: 4px!important;}
+.btn-spectate.ztx:hover{background: #F0AD4E !important;border-radius: 4px!important;}
+.base.ztx{display: none!important;}
+#ztxhotkeyP.ztx{display: block!important;}
+#profile-pic.ztx{display: none!important;}
+#pinfo.ztx,#latency_box.ztx{color: #fff!important;}
+
+#mainPanel.betterT,.agario-side-panel.betterT{background: #000 !important;opacity: 1!important;}
+#team_name.betterT,#nick.betterT,#skin_url.betterT,#skin_url2.betterT{background: #363636 !important;color:#fff !important;border-radius: 4px!important;}
+.btn-play-guest.betterT{background: #4f0242 !important;border-radius: 4px!important;width:100%!important;}
+.btn-spectate.betterT{background: #80063B !important;border-radius: 4px!important;}
+.btn-play-guest.betterT:hover{background: #2e063d !important;border-radius: 4px!important;}
+.btn-spectate.betterT:hover{background: #4b3d9e !important;border-radius: 4px!important;}
+#profile-pic.betterT{display: none!important;}
+#pinfo.betterT,#latency_box.betterT{color: #ff00ff!important;}
+#ztxhotkeyP.betterT{display: none!important;}
+
+#profile-pic.hideProfile{display: none !important;}
+#helloContainer.hideProfile{left: 55% !important;}
+#skin_url.skinH,#skin_url2.skinH{display: none!important;}
+
+#preview-img.biggerProfile{width: 160px;height: 160px;}
+.preview-img-area.biggerProfile{width: 160px;height: 160px;}
+#preview-img-area2.biggerProfile{width: 0px!important;height:0px!important; visibility: hidden !important;}
+
+
+/*addStyleSheet('@import url(https://fonts.googleapis.com/css?family=Ubuntu);');
+GM_addStyle('* @font-face {font-family: "Ubuntu"; src: url("https://fonts.googleapis.com/css?family=Ubuntu");}');
+GM_addStyle('* .coordinates {font-family: Ubuntu;}');
+GM_addStyle('* #leaderboard-panel {font-size: 35px;}');*/	
